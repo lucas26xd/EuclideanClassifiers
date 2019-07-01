@@ -1,4 +1,4 @@
-%Código desenvolvido por Lucas Costa Santos para a disciplina de Reconhecimento de Padrões.
+%Código desenvolvido por Lucas Costa Santos.
 %Para os sinais desta base, utilizei 4 atributos, a média, desvio padrão, curtose e a assimetria do sinal.
 %Ao padronizar os dados tanto pelo o zscore quanto pelo método normal (baseado em máx e min do sinal)
 %obtive resultados inferiores aos resultados se padronização, a função de
